@@ -1,3 +1,3 @@
 # JavaPrograms
-This repository will contain all my java programs
+This repository contains all my practice java programs
 
